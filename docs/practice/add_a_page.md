@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE TITLE"
-permalink: /docs/pratice/
+title: "add_a_page"
+permalink: /pratice/
 
 try to add a page
